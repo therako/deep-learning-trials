@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# ml
+001_cats_vs_dogs/test1/
+001_cats_vs_dogs/train/
